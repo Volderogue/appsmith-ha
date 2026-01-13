@@ -1,0 +1,16 @@
+# Fichiers à exclure du contexte Docker
+.env
+.env.local
+.env.*.local
+*.log
+*.md
+.git
+.gitignore
+.DS_Store
+node_modules
+.vscode
+.idea
+*.swp
+*.swo
+*~
+

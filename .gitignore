@@ -1,0 +1,12 @@
+# Fichiers à ignorer dans Git
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
